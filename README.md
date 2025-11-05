@@ -10,7 +10,7 @@
 
 - 🎯 **Looking for a development internship** from <b>December 1, 2025</b> to <b>January 25, 2026</b>  
 - 📫 **Reach me at:** [santhoshfrancecool@gmail.com](mailto:santhoshfrancecool@gmail.com)
-- 🌍 **Portfolio & Projects:** [github.com/SBS-santhosh](https://github.com/SBS-santhosh)
+- 🌍 **Portfolio & Projects:** [PortFolio]([https://github.com/SBS-santhosh](https://portfolio-v-2-kohl.vercel.app/#projects))
 
 ---
 
