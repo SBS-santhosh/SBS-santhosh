@@ -1,44 +1,79 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">SANTHOSH</span></h1>
-<h3 align="center">💻 Full-Stack Developer | BTS SIO – SLAM Student | Based in Paris, France</h3>
+<!-- Profile Header -->
+<h1 align="center">👋 Hey, I'm <span style="color:#007acc;">Santhosh</span></h1>
+<h3 align="center">💻 Full-Stack Developer | BTS SIO – SLAM Student | Based in Paris, France 🇫🇷</h3>
 
 <p align="center">
-  🚀 Passionate about building dynamic, efficient, and user-centered web applications.<br>
-  Currently deepening my skills in <b>advanced web and software development</b>.
+  🚀 Passionate about building scalable, efficient, and user-friendly web applications.<br>
+  💡 Focused on clean code, modern UI, and continuous learning.
 </p>
 
 ---
 
-- 🎯 **Looking for a development internship** from <b>December 1, 2025</b> to <b>January 25, 2026</b>  
-- 📫 **Reach me at:** [santhoshfrancecool@gmail.com](mailto:santhoshfrancecool@gmail.com)
-- 🌍 **Portfolio & Projects:**  
-  [💻 GitHub Repository](https://github.com/SBS-santhosh/portfolioV.2) • [🌐 Live Demo](https://portfolio-v-2-kohl.vercel.app/#projects)
+### 🎯 About Me
+- 🔭 Currently improving my skills in **Full-Stack JavaScript (React, Node.js, Express, MongoDB)**  
+- 🌱 Learning **Next.js**, **TypeScript**, and **DevOps basics (Docker, CI/CD)**  
+- 💼 Looking for a **development internship** from **December 1, 2025 → January 25, 2026**  
+- 📫 **Reach me at:** [santhoshfrancecool@gmail.com](mailto:santhoshfrancecool@gmail.com)  
+- 🧠 Motto: *"Code with purpose, learn with passion."*
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/not_santhosh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://fr.linkedin.com/in/satheeskumar-santhosh-40288726a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+### 🌍 Portfolio & Projects
+- [🌐 **Live Portfolio**](https://portfolio-v-2-kohl.vercel.app/#projects)  
+- [💻 **GitHub Repository**](https://github.com/SBS-santhosh/portfolioV.2)  
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mysql,mongodb,java,python,git,linux,vscode,postman" />
 </p>
 
 ---
 
-<h3 align="left">🧰 Languages & Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+### 🏗️ Featured Projects
+
+#### 🪐 Portfolio v2
+> Interactive web portfolio built with **React + Vite + Tailwind CSS**  
+> Includes smooth animations, dynamic project sections, and CV download.
+
+🔗 [View Live](https://portfolio-v-2-kohl.vercel.app) • [Source Code](https://github.com/SBS-santhosh/portfolioV.2)
+
+#### ✉️ MailSender
+> Node.js + Nodemailer app to send custom emails securely with styled templates.
+
+🔗 [Source Code](https://github.com/SBS-santhosh/mailsender-nodemailer-)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SBS-santhosh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBS-santhosh&theme=tokyonight" height="165" />
 </p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/not_santhosh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://fr.linkedin.com/in/satheeskumar-santhosh-40288726a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:santhoshfrancecool@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Facts
+- 🧩 I love problem-solving and UI design  
+- 🎮 I chill by playing FPS or open-world games  
+- 🐧 Linux fan — love customizing my dev environment  
+- 📚 Always exploring new frameworks & open-source projects  
 
 ---
 
