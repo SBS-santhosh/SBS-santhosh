@@ -1,60 +1,67 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#007acc;">Santhosh</span></h1>
-<h3 align="center">💻 Full-Stack Developer | BTS SIO – SLAM Student | Based in Paris, France 🇫🇷</h3>
+<!-- 🧭 En-tête du profil -->
+<h1 align="center">👋 Salut, moi c’est <span style="color:#007acc;">Santhosh</span></h1>
+<h3 align="center">💻 Développeur Full-Stack | Étudiant en BTS SIO – SLAM | Basé à Paris, France 🇫🇷</h3>
 
 <p align="center">
-  🚀 Passionate about building scalable, efficient, and user-friendly web applications.<br>
-  💡 Focused on clean code, modern UI, and continuous learning.
+  🚀 Passionné par la création d’applications web modernes, performantes et centrées sur l’utilisateur.<br>
+  💡 Motivé par le clean code, la performance et l’apprentissage continu.
 </p>
 
 ---
 
-### 🎯 About Me
-- 🔭 Currently improving my skills in **Full-Stack JavaScript (React, Node.js, Express, MongoDB)**  
-- 🌱 Learning **Next.js**, **TypeScript**, and **DevOps basics (Docker, CI/CD)**  
-- 💼 Looking for a **development internship** from **December 1, 2025 → January 25, 2026**  
-- 📫 **Reach me at:** [santhoshfrancecool@gmail.com](mailto:santhoshfrancecool@gmail.com)  
-- 🧠 Motto: *"Code with purpose, learn with passion."*
+### 🎯 À propos de moi
+- 🔭 Actuellement en perfectionnement sur le **développement web Full-Stack (React, Node.js, Express, MongoDB)**  
+- 🌱 En cours d’apprentissage de **Next.js**, **TypeScript** et des bases du **DevOps (Docker, CI/CD)**  
+- ☁️ Formation certifiée **AWS Academy Cloud Foundations** et **AWS Academy Cloud Developing**  
+- 💼 À la recherche d’un **stage en développement** du **1er décembre 2025 au 25 janvier 2026**  
+- 📫 **Me contacter :** [santhoshfrancecool@gmail.com](mailto:santhoshfrancecool@gmail.com)  
+- 🧠 Devise : *« If you want to CRACK the system, first UNDERSTAND the system. »*
 
 ---
 
-### 🌍 Portfolio & Projects
-- [🌐 **Live Portfolio**](https://portfolio-v-2-kohl.vercel.app/#projects)  
-- [💻 **GitHub Repository**](https://github.com/SBS-santhosh/portfolioV.2)  
+### 🌍 Portfolio & Projets
+- [🌐 **Portfolio en ligne**](https://portfolio-v-2-kohl.vercel.app/#projects)  
+- [💻 **Dépôt GitHub du Portfolio**](https://github.com/SBS-santhosh/portfolioV.2)  
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Compétences techniques
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mysql,mongodb,java,python,git,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mysql,mongodb,java,python,git,linux,vscode,postman,aws" />
 </p>
 
+**Langages :** Python, Java, JavaScript, TypeScript, HTML, CSS  
+**Frameworks :** Node.js, Express, Angular, React Native, Node-RED  
+**Bases de données :** MySQL, PostgreSQL, MongoDB, DynamoDB  
+**Outils & systèmes :** Git, Bash, VS Code, IntelliJ, Thonny, Bruno, Linux, Windows, macOS  
+**Réseau & virtualisation :** VirtualBox, Packet Tracer, PuTTY, Tera Term  
+**Sécurité / Pentest :** Nmap, Aircrack-ng, Hashcat, Metasploit, Ettercap, John the Ripper  
+
 ---
 
-### 🏗️ Featured Projects
+### 🏗️ Projets mis en avant
 
 #### 🪐 Portfolio v2
-> Interactive web portfolio built with **React + Vite + Tailwind CSS**  
-> Includes smooth animations, dynamic project sections, and CV download.
+> Portfolio web interactif conçu avec **React + Vite + Tailwind CSS**  
+> Intègre des animations fluides, une section dynamique de projets et un bouton de téléchargement de CV.
 
-🔗 [View Live](https://portfolio-v-2-kohl.vercel.app) • [Source Code](https://github.com/SBS-santhosh/portfolioV.2)
+🔗 [Voir en ligne](https://portfolio-v-2-kohl.vercel.app) • [Code source](https://github.com/SBS-santhosh/portfolioV.2)
 
 #### ✉️ MailSender
-> Node.js + Nodemailer app to send custom emails securely with styled templates.
+> Application **Node.js + Nodemailer** permettant l’envoi d’e-mails personnalisés avec des templates stylisés.
 
-🔗 [Source Code](https://github.com/SBS-santhosh/mailsender-nodemailer-)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SBS-santhosh&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBS-santhosh&theme=tokyonight" height="165" />
-</p>
+🔗 [Code source](https://github.com/SBS-santhosh/mailsender-nodemailer-)
 
 ---
 
-### 🌐 Connect with Me
+### 🧾 Certifications
+- 🪣 **AWS Academy Cloud Foundations** 
+- ☁️ **AWS Academy Cloud Developing**  
+
+
+---
+
+### 🌐 Me retrouver
 <p align="center">
   <a href="https://twitter.com/not_santhosh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
@@ -70,11 +77,11 @@
 ---
 
 ### ⚡ Fun Facts
-- 🧩 I love problem-solving and UI design  
-- 🎮 I chill by playing FPS or open-world games  
-- 🐧 Linux fan — love customizing my dev environment  
-- 📚 Always exploring new frameworks & open-source projects  
+- 🧩 J’aime résoudre des problèmes et concevoir des interfaces intuitives  
+- 🎮 Je me détends en jouant à des jeux FPS ou d’aventure  
+- 🐧 Passionné par **Linux** et la personnalisation de mon environnement de développement  
+- 📚 Toujours curieux d’explorer de nouvelles technologies et frameworks  
 
 ---
 
-<h3 align="center">✨ “Code with purpose, learn with passion.” ✨</h3>
+<h3 align="center">✨ “If you want to CRACK the system, first UNDERSTAND the system.” ✨</h3>
