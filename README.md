@@ -2,7 +2,7 @@
 <h1 align="center">👋 Salut, moi c’est <span style="color:#007acc;">Santhosh</span></h1>
 <h3 align="center">💻 Développeur Full-Stack | Étudiant en BTS SIO – SLAM | Basé à Paris, France 🇫🇷</h3>
 
- <p Somewhere between Debian and Arch btw. </p>
+Somewhere between Debian and Arch btw 
 <p align="center">
   🚀 Passionné par la création d’applications web modernes, performantes et centrées sur l’utilisateur.<br>
   💡 Motivé par le clean code, la performance et l’apprentissage continu.
