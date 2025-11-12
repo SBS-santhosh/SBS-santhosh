@@ -2,6 +2,7 @@
 <h1 align="center">👋 Salut, moi c’est <span style="color:#007acc;">Santhosh</span></h1>
 <h3 align="center">💻 Développeur Full-Stack | Étudiant en BTS SIO – SLAM | Basé à Paris, France 🇫🇷</h3>
 
+ <p Somewhere between Debian and Arch btw. </p>
 <p align="center">
   🚀 Passionné par la création d’applications web modernes, performantes et centrées sur l’utilisateur.<br>
   💡 Motivé par le clean code, la performance et l’apprentissage continu.
@@ -75,8 +76,8 @@
 
 ### ⚡ Fun Facts
 - 🧩 J’aime résoudre des problèmes et concevoir des interfaces intuitives  
-- 🎮 Je me détends en jouant à des jeux FPS ou d’aventure  
-- 🐧 Passionné par **Linux** et la personnalisation de mon environnement de développement  
+- 🎮 Je me détends en jouant à des jeux video ou d’aventure  
+- 🐧 Passionné par **Linux** et la personnalisation de mon environnement de développement
 - 📚 Toujours curieux d’explorer de nouvelles technologies et frameworks  
 
 ---
