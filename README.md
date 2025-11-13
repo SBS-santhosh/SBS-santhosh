@@ -21,7 +21,7 @@
 ---
 
 ### 🌍 Portfolio & Projets
-- [🌐 **Portfolio en ligne**](https://portfolio-v-2-kohl.vercel.app/#projects)  
+- [🌐 **Portfolio en ligne**](https://portfolio-v-2-ivory.vercel.app//#projects)  
 - [💻 **Dépôt GitHub du Portfolio**](https://github.com/SBS-santhosh/portfolioV.2)  
 
 ---
