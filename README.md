@@ -11,8 +11,7 @@
 ---
 
 ### 🎯 À propos de moi
-- 🔭 Actuellement en perfectionnement sur le **développement web Full-Stack (React, Node.js, Express, MongoDB)**  
-- 🌱 En cours d’apprentissage de **Next.js**, **TypeScript** et des bases du **DevOps (Docker, CI/CD)**  
+- 🌱 En cours d’apprentissage de **développement web Full-Stack (React, Node.js, Express, MongoDB)** **Next.js**, **TypeScript** et des bases du **DevOps (Docker, CI/CD)**  
 - ☁️ Formation certifiée **AWS Academy Cloud Foundations** et **AWS Academy Cloud Developing**  
 - 💼 À la recherche d’un **stage en développement** du **1er décembre 2025 au 25 janvier 2026**  
 - 📫 **Me contacter :** [santhoshfrancecool@gmail.com](mailto:santhoshfrancecool@gmail.com)  
