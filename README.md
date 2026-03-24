@@ -43,11 +43,12 @@
 
 #### 🪐 Portfolio v2
 > Portfolio web interactif conçu avec **React + Vite + Tailwind CSS**  
-🔗 [Voir en ligne](https://portfolio-v-2-kohl.vercel.app) • [Code source](https://github.com/SBS-santhosh/portfolioV.2)
+🔗 [Voir en ligne](https://portfolio-v-2-ivory.vercel.app/) • [Code source](https://github.com/SBS-santhosh/portfolioV.2)
 
 #### ✉️ MailSender
-> Application **Node.js + Nodemailer** permettant l’envoi d’e-mails personnalisés avec des templates stylisés.
-🔗 [Code source](https://github.com/SBS-santhosh/mailsender-nodemailer-)
+> C'est un outil d'analyse d'échecs haute performance sous Next.js 15 qui utilise Stockfish 17 directement dans le navigateur.
+Il permet de classer vos coups (Brillant, Gaffe, etc.) gratuitement en récupérant vos parties depuis Chess.com ou Lichess.
+🔗 [Code source](https://chess-brainrot-damw.vercel.app/)
 
 ---
 
